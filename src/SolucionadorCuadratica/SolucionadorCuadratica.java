@@ -1,4 +1,4 @@
-package actividad1;
+package SolucionadorCuadratica;
 
 // creo la subclase que resolvera la ecuacion heredando de la clase cuadratica:
 public class SolucionadorCuadratica extends Cuadratica {

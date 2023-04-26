@@ -1,4 +1,4 @@
-package actividad1;
+package SolucionadorCuadratica;
 
 // creo la superclase que guardara los atributos de la cuadratica:
 public class Cuadratica {

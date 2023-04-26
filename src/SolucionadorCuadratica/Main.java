@@ -4,7 +4,7 @@
  * FECHA: 11-04-2023
  */
 
-package actividad1;
+package SolucionadorCuadratica;
 
 import java.io.BufferedReader;
 import java.io.IOException;
